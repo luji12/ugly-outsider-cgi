@@ -1,0 +1,4 @@
+interface:
+  display_name: "故意丑怪 CGI"
+  short_description: "把个人照片变成故意丑怪、笨拙粗糙的原始3D电影画面"
+  default_prompt: "Use $ugly-outsider-cgi to transform this photo into an ugly, awkward amateur early-3D render with recognizable curved low-poly forms, crude facial construction, broken stretched bitmap textures, coarse uneven materials, and simple low-quality lighting."
